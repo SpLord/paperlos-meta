@@ -1,7 +1,7 @@
 {
-  "version": "1.7.17",
-  "tag": "v1.7.17",
-  "released_at": "2026-04-25T20:06:10Z",
-  "release_url": "https://github.com/SpLord/paperlos/releases/tag/v1.7.17",
+  "version": "1.7.18",
+  "tag": "v1.7.18",
+  "released_at": "2026-04-25T20:18:32Z",
+  "release_url": "https://github.com/SpLord/paperlos/releases/tag/v1.7.18",
   "image": "ghcr.io/splord/paperlos"
 }
